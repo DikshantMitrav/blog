@@ -1,0 +1,78 @@
+.hollywood-header{
+    position: absolute;
+    top: 35%;
+    left: 17%;
+    color: black;
+}
+
+.card411{
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.card422{
+    position: absolute;
+    top: 80%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.card433{
+    position: absolute;
+    top: 110%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.field11{
+    height: 180px;
+    width: 230px;
+}
+
+.catch11{
+    position: relative;
+    top: -83%;
+    left: 41%;
+    color: rgb(74, 71, 71); 
+}
+
+.guj11{
+    position: relative;
+    top: -75%;
+    left: 41%;
+    color: black(74, 71, 71);
+}
+
+.advertisement-div11{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    background-color: white;
+    height: 593px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.ad-heading11{
+    color: black;
+    position: relative;
+    top: 50%;
+    left: 17%;
+}
+
+.footer-holly{
+    position: absolute;
+    top: 115%;
+    left: 0%;
+    height: 80px;
+    width: 100%;
+    /* border-top: 2px solid black; */
+}

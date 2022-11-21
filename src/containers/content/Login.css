@@ -1,0 +1,82 @@
+.login-div1{
+    background-color: white;
+    box-shadow: 8px 10px 10px rgb(95, 92, 92);
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+.login-div2{
+    background-color: #1E90FF;
+    box-shadow: 8px 10px 10px rgb(95, 92, 92);
+    height: 400px;
+    width: 430px;
+    position: absolute;
+    top: 40%;
+    left: 54%;
+}
+
+.sign-head{
+    color: black;
+    position: relative;
+    top: 4%;
+    left: 21%;
+}
+
+.icons-div{
+    position: relative;
+    top: 10%;
+    left: 38%;
+}
+
+.email-para{
+    position: relative;
+    top: 14%;
+    left: 29%;
+    color: black;
+}
+
+.email-input{
+    position: relative;
+    top: 17%;
+    left: 25%;
+    width: 270px;
+}
+
+.pass-input{
+    position: relative;
+    top: 30%;
+    left: -20.3%;
+    width: 270px;
+}
+
+.sign-btn{
+    position: relative;
+    top: 35%;
+    left: 39.5%;
+}
+
+.hello-head{
+    color: white;
+    position: relative;
+    top: 35%;
+    left: 5%;
+}
+
+.contri-para{
+    color: white;
+    position: relative;
+    top: 38%;
+    left: 5%;
+}
+
+.footer-login{
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    height: 80px;
+    width: 100%;
+    /* border-top: 2px solid black; */
+}

@@ -1,0 +1,14 @@
+.footer-div{
+    position: absolute;
+    top: 370%;
+    left: 0%;
+    height: 80px;
+    width: 100%;
+    border-top: 2px solid black;
+}
+
+.footer-para{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}

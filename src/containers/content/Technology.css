@@ -1,0 +1,109 @@
+.animate-head{
+    color: black;
+    position: absolute;
+    top: 30%;
+    left: 17%;
+}
+
+.ways-div{
+    position: absolute;
+    top: 38%;
+    left: 17%;
+    background-color: whitesmoke;
+    height: 1450px;
+    width: 700px;
+}
+
+.person-img{
+    border: 1px solid black;
+    border-radius: 25%;
+    position: relative;
+    top: 5%;
+    left: 3%;
+    height: 80px;
+    width: 80px;
+}
+
+.name-para{
+    color: black;
+    position: relative;
+    top: 0%;
+    left: 17%;
+}
+
+.react-img{
+    position: relative;
+    top: 3%;
+    left: 4%;
+    height: 300px;
+    width: 600px;
+}
+
+.icons_div{
+    position: relative;
+    top: -1%;
+    left: 17%;
+}
+
+.animate-para{
+    position: relative;
+    top: 5%;
+    left: 7%;
+}
+
+.code-img{
+    position: relative;
+    top: 10%;
+    left: 7%;
+    height: 350px;
+    width: 600px;
+}
+
+.info-para{
+    position: relative;
+    top: 10%;
+    left: 7%;
+    color: black;
+}
+
+.footer-block{
+    position: absolute;
+    top: 210%;
+    left: 0%;
+    height: 80px;
+    width: 100%;
+    /* border-top: 2px solid black; */
+}
+
+.share-img{
+    position: relative;
+    top: -7%;
+    left: 60%;
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+
+.share-para{
+    position: relative;
+    top: -9%;
+    left: 68%;
+    cursor: pointer;
+}
+
+.like-img{
+    position: relative;
+    top: -6.5%;
+    left: 60%;
+    height: 25px;
+    width: 25px; 
+    cursor: pointer;
+}
+
+.like-para{
+    position: relative;
+    top: -8%;
+    left: 68%;
+    cursor: pointer;
+}
+

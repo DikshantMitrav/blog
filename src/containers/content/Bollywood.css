@@ -1,0 +1,87 @@
+.bolly-heading {
+  position: absolute;
+  top: 35%;
+  left: 17%;
+  color: black;
+}
+
+.card41 {
+  position: absolute;
+  top: 50%;
+  left: 17%;
+  height: 180px;
+  width: 600px;
+  background-color: whitesmoke;
+}
+
+.card42 {
+  position: absolute;
+  top: 80%;
+  left: 17%;
+  height: 180px;
+  width: 600px;
+  background-color: whitesmoke;
+}
+
+.card43 {
+  position: absolute;
+  top: 110%;
+  left: 17%;
+  height: 180px;
+  width: 600px;
+  background-color: whitesmoke;
+}
+
+.field1 {
+  height: 180px;
+  width: 230px;
+}
+
+.catch1 {
+  position: relative;
+  top: -83%;
+  left: 41%;
+  color: rgb(74, 71, 71);
+}
+
+.guj1 {
+  position: relative;
+  top: -75%;
+  left: 41%;
+  color: black(74, 71, 71);
+}
+
+.advertisement-div1 {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  background-color: white;
+  height: 593px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.ad-heading1 {
+  color: black;
+  position: relative;
+  top: 50%;
+  left: 17%;
+}
+
+.footer {
+  position: absolute;
+  top: 115%;
+  left: 0%;
+  height: 80px;
+  width: 100%;
+  /* border-top: 2px solid black; */
+}
+
+@media screen and (max-width: 600px) {
+  .advertisement-div1 {
+    display: none;
+  }
+  body {
+    color: deeppink;
+  }
+}

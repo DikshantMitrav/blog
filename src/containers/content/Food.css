@@ -1,0 +1,134 @@
+.food-header{
+    position: absolute;
+    top: 35%;
+    left: 17%;
+    color: black;
+}
+
+.card-11{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 45%;
+    left: 17%;
+    height: 370px;
+    width: 300px;
+}
+
+.card-22{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    height: 370px;
+    width: 300px;
+}
+
+.card-33{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 45%;
+    left: 63%;
+    height: 370px;
+    width: 300px;
+}
+
+.river-img-11{
+    position: relative;
+    top: 0%;
+    left: 0%;
+    width: 300px;
+    height: 150px;
+    color: black;
+}
+
+.joshua-heading1{
+    position: relative;
+    top: 7%;
+    left: 2%;
+    color: rgb(74, 71, 71);
+}
+
+.gujarat-para1{
+    position: relative;
+    top: 10%;
+    left: 2%;
+    color: black(74, 71, 71);
+}
+
+.article-heading111{
+    position: absolute;
+    top: 105%;
+    left: 17%;
+    color: black;
+}
+
+.card-444{
+    position: absolute;
+    top: 115%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.card-555{
+    position: absolute;
+    top: 144%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.card-666{
+    position: absolute;
+    top: 173%;
+    left: 17%;
+    height: 180px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.field-img111{
+    height: 180px;
+    width: 230px;
+}
+
+.catch-head111{
+    position: relative;
+    top: -83%;
+    left: 41%;
+    color: rgb(74, 71, 71); 
+}
+
+.guj-para111{
+    position: relative;
+    top: -75%;
+    left: 41%;
+    color: black(74, 71, 71);
+}
+
+.advertisement-div111{
+    position: absolute;
+    top: 115%;
+    left: 60%;
+    background-color: white;
+    height: 593px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.ad-heading111{
+    color: black;
+    position: relative;
+    top: 50%;
+    left: 17%;
+}
+
+.footer-food{
+    position: absolute;
+    top: 165%;
+    left: 0%;
+    height: 80px;
+    width: 100%;
+}
